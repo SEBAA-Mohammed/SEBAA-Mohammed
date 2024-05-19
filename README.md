@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SEBAA Mohammed</h1>
-<h3 align="center">A fullstack developer from Morocco , I love also machine learning .</h3>
+<h3 align="center">A fullstack developer from Morocco , I also love machine learning .</h3>
 
 - 🔭 I’m currently working on **a wild fire detector project**
 
