@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SEBAA Mohammed</h1>
 <h3 align="center">A fullstack developer from Morocco.</h3>
 
-- I’m currently learning **Spring Boot , JSP and Servlets , Kotlin , Angular , NextJs , Typescript , NodeJs**
+- I’m currently learning **Spring Boot , JSP and Servlets , Kotlin , Angular , Typescript , NodeJs**
 
 - I’m looking to collaborate on **Backend Spring Boot , JSP and Laravel Projects**
 
