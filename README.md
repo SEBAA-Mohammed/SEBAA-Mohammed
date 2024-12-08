@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm SEBAA Mohammed</h1>
 <h3 align="center">A fullstack developer from Morocco.</h3>
 
-- I’m currently learning **Spring Boot , JSP and Servlets , Kotlin , Angular , Typescript , NodeJs**
+- I’m currently learning **Spring Boot , JSP , Jakarta EE , Android Developpement , Angular , Typescript**
 
-- I’m looking to collaborate on **Backend Spring Boot , JSP and Laravel Projects**
+- I’m looking to collaborate on **Spring Boot , JSP , Jakarta EE , MERN and Laravel Projects**
 
 - 📫 How to reach me **mohammedsebaa2610@gmail.com**
 
@@ -40,6 +40,12 @@
     <a href="https://reactjs.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
     </a>
+    <a href="https://nodejs.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+    </a>
+    <a href="https://expressjs.com/" target="https://expressjs.com">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+    </a>
     <a href="https://redux.js.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
     </a>
@@ -63,6 +69,7 @@
     </a>
 </p>
 
+
 <h3 align="left">Currently Learning:</h3>
 <p align="left">
     <a href="https://spring.io/" target="_blank">
@@ -74,8 +81,5 @@
     <a href="https://www.typescriptlang.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
     </a>
-    <a href="https://nodejs.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-        </a>
 </p>
 
