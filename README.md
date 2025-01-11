@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm SEBAA Mohammed</h1>
 <h3 align="center">A fullstack developer from Morocco.</h3>
 
-- I’m currently learning **Spring Boot , JSP , Jakarta EE , Android Developpement , Angular , Typescript**
+- I’m currently learning **Spring Boot , J2EE , Angular , Typescript**
 
-- I’m looking to collaborate on **Spring Boot , JSP , Jakarta EE , MERN and Laravel Projects**
+- I’m looking to collaborate on **Spring Boot , J2EE , MERN and Laravel Projects**
 
 - 📫 How to reach me **mohammedsebaa2610@gmail.com**
 
@@ -51,9 +51,6 @@
     </a>
     <a href="https://tailwindcss.com/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-    </a>
-    <a href="https://www.postman.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
     </a>
     <a href="https://www.mongodb.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
